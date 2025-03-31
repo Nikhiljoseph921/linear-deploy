@@ -1,1 +1,8 @@
 joblib
+streamlit
+pandas
+joblib
+seaborn
+matplotlib
+statsmodels
+scikit-learn
